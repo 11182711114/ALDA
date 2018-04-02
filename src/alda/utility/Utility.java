@@ -1,8 +1,8 @@
-package alda.mf2;
+package alda.utility;
 
 import java.util.Arrays;
 
-public class Mf2 {
+public class Utility {
 	
 	public static void main(String[] args){
 		String[] strings = {"Ett", "Två", "Tree","Fyra","Fem","Sex","Sju","Åtta","Nio"};
